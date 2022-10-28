@@ -1,6 +1,17 @@
 # Fan-Splitter-PCB
 A PCB designed to connect multiple 4 Pin PWM Fans without cable splitters.
 
+## current
+
+* ordered prototype 
+
+## To Do
+
+* confirm working prototype
+* adding 2 way splitter
+* adding 4 way splitter
+* maybe Watercool MO-RA Version?
+
 ## Version 0.2
 
 I added 2 more connectors so now the splitter supports 140 AND 120mm fans within a single pcb. So you only have to order one batch to connect a 420 and a 360 radiator instead of ordering 2 seperate batches and different pcbs as intended in the first place.
