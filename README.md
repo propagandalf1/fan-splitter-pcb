@@ -4,6 +4,7 @@ A PCB designed to connect multiple 4 Pin PWM Fans without cable splitters.
 ## current
 
 * ordered prototype -> corrected a mistake
+* added 2 way version
 
 ## To Do
 
