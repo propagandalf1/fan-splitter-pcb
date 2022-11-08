@@ -1,5 +1,5 @@
 # Fan-Splitter-PCB
-A PCB designed to connect multiple 4 Pin PWM Fans without cable splitters.
+A PCB designed to connect multiple 4 pin PWM fans without cable splitters.
 
 ## current
 
