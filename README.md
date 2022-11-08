@@ -11,6 +11,7 @@ A PCB designed to connect multiple 4 Pin PWM Fans without cable splitters.
 * confirm working prototype / ordering new prototypes
 * adding 4 way splitter
 * maybe Watercool MO-RA Version?
+* doing some good renders :D
 
 ## Version 0.2
 
